@@ -25,7 +25,7 @@ test('verify your retirement age in retirement milestones tab', async () => {
   await superDetailsPage.enterYourSuperDetails()
   await retirementCalculatorPage.verifyYourRetirementAge()
   await retirementCalculatorPage.verifyYourSuperAmount()
- });
+});
 
 test('verify your super amount and age in income graph', async () => {
   await retirementCalculatorPage.verifySuperAmountInGraph()
