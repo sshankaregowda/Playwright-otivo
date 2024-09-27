@@ -1,0 +1,20 @@
+{
+    "URL": "https://www.otivo.com/cfs/retirementCalculator",
+    "yourSuperDetails": {
+        "currentAge": "36",
+        "currentSalary": "90000",
+        "currentSuperBalance": "70000",
+        "targetAnnualRetirementIncome": "44,500",
+        "doYouOwnYourHome": "Yes"
+    },
+    "partnerDetails": {
+        "currentAge": "40",
+        "currentSalary": "125000",
+        "currentSuperBalance": "90000",
+        "targetAnnualRetirementIncome": "50,000"
+    },
+    "otherIncomeAssetsDetails": {
+        "assetType": "Home",
+        "currentValue": "200000"
+    }
+}
