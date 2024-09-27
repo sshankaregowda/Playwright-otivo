@@ -12,7 +12,7 @@ Note: Automation scripts are automated for Chrome only with time being the const
 Steps to Run the test:
 1. Open the command prompt
 2. git clone the project to your folder location using the below link
-3. git clone
+3. git clone https://github.com/sshankaregowda/playwright-otivo.git
 4. Open the project in VS code
 5. open the terminal
 6. Run npm install
